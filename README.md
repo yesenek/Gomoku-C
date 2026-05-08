@@ -1,3 +1,3 @@
 # Gomoku-C
-Experimental Gomoku AI using localized recursive tactical search
+Experimental Gomoku AI
 ![Gameplay](ScreenShot.png)
